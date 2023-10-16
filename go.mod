@@ -1,4 +1,4 @@
-module github.com/HarjuElekter/go-db
+module github.com/dainiauskas/go-db
 
 go 1.20
 
