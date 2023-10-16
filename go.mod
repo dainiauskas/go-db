@@ -7,7 +7,7 @@ require (
 	github.com/dainiauskas/go-log v1.2.9
 	gorm.io/driver/mysql v1.5.2
 	gorm.io/driver/sqlserver v1.5.2
-	gorm.io/gorm v1.25.2-0.20230610234218-206613868439
+	gorm.io/gorm v1.25.5
 )
 
 require (
